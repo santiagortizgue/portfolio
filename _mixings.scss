@@ -20,4 +20,7 @@
     @else if $limit == laptop_MAX {
         @media screen and(max-width: 767px) { @content; }
     }
+    @else if $limit == tablet_ONLY {
+        @media screen and(min-width: 500px) and(max-width: 767px) { @content; }
+    }
 }
