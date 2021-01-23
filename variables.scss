@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;800;900&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+$blackColor: #0A0D17;
+$whiteColor: #FDFDFE;
+$mainColor: #ED274A;
+$grayColor: #E6E6ED;
+
+$titleFont: 'Merriweather', serif;
+$textFont: 'Heebo', sans-serif;
+
+$widthSize-960w: 662px;
+$widthSize-720: 880px;
+$widthSize-1080: 1320px;
+
+$widthSize-laptop: 568px;
+$widthSize-desktop: 880px;
+$widthSize-largeDesktop: 1320px;
+
+$sizeProjectCard: 331px;
+$card_paddingSize: 25px;
+
+$sizeProjectCard-1080: 331px;
+$card_paddingSize-1080: 25px;
+
+$paddingSize: 40px;
+$paddingSize-mobile: 20px;
+$card_paddingSize: 25px;
+
+$mobile_padding: 30px;
+$mobile_menu_height: 70px;
+
+$tablet_padding: 90px;
+
+@import "./_mixings.scss";
