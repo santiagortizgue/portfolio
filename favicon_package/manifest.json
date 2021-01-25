@@ -1,5 +1,6 @@
 {
- "name": "App",
+ "short_name": "Santiagortizgue",
+ "name": "Santiagortizgue",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
@@ -37,5 +38,8 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ]
+ ],
+ "display": "standalone",
+ "theme_color": "#FDFDFE",
+ "background_color": "#FDFDFE"
 }
